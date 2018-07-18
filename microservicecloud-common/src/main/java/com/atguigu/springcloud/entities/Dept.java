@@ -1,4 +1,4 @@
-package com.atguigu.enti;
+package com.atguigu.springcloud.entities;
 
 public class Dept {
 
